@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGame/DiceRollGame.csproj",
-      "projectName": "DiceRollGame",
-      "projectPath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGame/DiceRollGame.csproj",
+      "projectUniqueName": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/DiceRollGameRefactor.csproj",
+      "projectName": "DiceRollGameRefactor",
+      "projectPath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/DiceRollGameRefactor.csproj",
       "packagesPath": "/Users/artem/.nuget/packages/",
-      "outputPath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGame/obj/",
+      "outputPath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/artem/.nuget/NuGet/NuGet.Config"

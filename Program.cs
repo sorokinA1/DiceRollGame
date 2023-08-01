@@ -1,12 +1,9 @@
-﻿var game = new Game();
+﻿using DiceRollGameRefactor.Game;
 
-while (true)
-{
-    game.StartGame();
-    Console.WriteLine("Want to start a new game? [y/n]");
-    var answer = Console.ReadLine();
+var random = new Random();
+var dice = new Dice(random);
+var guessingGame = new GuessingGame(dice);
 
-    if (answer != "y".ToLower()) break;
+GameResult gameResult = guessingGame.Play();
+GuessingGame.PrintResult(gameResult);
 
-    game.Restart();
-}

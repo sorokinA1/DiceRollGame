@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PlHPwXTx2AUYnIlWT8oAJ7/n1CqTaeXSuDQmNqpt46qpbT9Jtx6eq+PPNBX95mwvZ7Eaoc+NGJYdi0DvalawHQ==",
+  "dgSpecHash": "KEUo+nDWf12YizqTSbpyM/Lsi8uTgSpy/mp7vmZkP4RL9yz+zUjq979faxaJ0/GcJDQUwCKl2omqVB3AK+185Q==",
   "success": true,
-  "projectFilePath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGame/DiceRollGame.csproj",
+  "projectFilePath": "/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/DiceRollGameRefactor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/bin/Debug/net7.0/DiceRollGameRefactor
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/bin/Debug/net7.0/DiceRollGameRefactor.deps.json
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/bin/Debug/net7.0/DiceRollGameRefactor.runtimeconfig.json
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/bin/Debug/net7.0/DiceRollGameRefactor.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/bin/Debug/net7.0/DiceRollGameRefactor.pdb
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.csproj.AssemblyReference.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.AssemblyInfoInputs.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.AssemblyInfo.cs
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/refint/DiceRollGameRefactor.dll
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.pdb
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/DiceRollGameRefactor.genruntimeconfig.cache
+/Users/artem/Desktop/C#/02-OOP/OOP/DiceRollGameRefactor/obj/Debug/net7.0/ref/DiceRollGameRefactor.dll
